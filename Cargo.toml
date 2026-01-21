@@ -1,0 +1,13 @@
+[package]
+name = "structured_reference"
+description = "Structured data for banking"
+version = "0.1.0"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+categories = ["finance"]
+keywords = ["banking"]
+homepage = "https://github.com/chamaloriz/structured_reference"
+repository = "https://github.com/chamaloriz/structured_reference"
+
+[dependencies]
